@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working with AutoDigital agency.<br>👯 I’m looking to collaborate on simple front-end projects<br>🤝 I’m looking for help with design and code<br>🌱
 
 
 ## 🌐 Socials:
