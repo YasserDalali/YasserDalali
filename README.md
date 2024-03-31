@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with AutoDigital agency.<br>👯 I’m looking to collaborate on simple front-end projects<br>🤝 I’m looking for help with design and code<br>🌱
+🔭 I’m currently working with AutoDigital agency.<br>🤝 I’m looking to help with design and code<br>
 
 
 ## 🌐 Socials:
@@ -10,12 +10,16 @@
 
 
 # 📊 GitHub Stats:
+<div style='display: flex; flex-direction: column; gap:3rem; align-items: center; justify-content: center'>
 ![](https://github-readme-stats.vercel.app/api?username=YasserDalali&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YasserDalali&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YasserDalali&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<!div>
 ## 🏆 GitHub Trophies
+  <div style='display: flex; flex-direction: column; gap:3rem; align-items: center; justify-content: center'>
+
 ![](https://github-profile-trophy.vercel.app/?username=YasserDalali&theme=alduin&no-frame=true&no-bg=false&margin-w=4)
+<!div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
