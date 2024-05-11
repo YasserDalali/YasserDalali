@@ -1,7 +1,6 @@
 
-![Logo](https://ibb.co/JRBh7Vs)
 
-
+<img src="https://ibb.co/JRBh7Vs">
 
 <h1 align="center">Hi 👋, I'm Yasser D.</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
