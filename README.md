@@ -1,5 +1,5 @@
 
-![Logo](https://preview.redd.it/n93k6oc2wab71.png?width=640&crop=smart&auto=webp&s=b4645f45f103cd8c7fa00da1e017ac375a1d6e3a)
+![Logo]([https://preview.redd.it/n93k6oc2wab71.png?width=640&crop=smart&auto=webp&s=b4645f45f103cd8c7fa00da1e017ac375a1d6e3a](https://media.licdn.com/dms/image/D4E16AQEEmClU5_5ryQ/profile-displaybackgroundimage-shrink_350_1400/0/1712361704681?e=1720656000&v=beta&t=jmCnfGFlg4inkGejue0F9nKHl1RN-J8wUerlPC4G60c))
 
 
 
