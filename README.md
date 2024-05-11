@@ -1,6 +1,4 @@
-
-
-<img src="https://ibb.co/JRBh7Vs">
+<a href="https://ibb.co/JRBh7Vs"><img src="https://i.ibb.co/qMyZsKr/1712361704681.jpg" alt="1712361704681" border="0"></a>
 
 <h1 align="center">Hi 👋, I'm Yasser D.</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
