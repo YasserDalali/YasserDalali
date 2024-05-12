@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working for **AutoDigital Agency**
 
-- 🌱 I’m currently learning **JS and Figma**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **yasser.dalali.personal@gmail.com**
 
