@@ -1,4 +1,4 @@
-<a href="https://ibb.co/HxLx33q"><img src="https://i.ibb.co/MGyGQQ7/Yellow-Black-Modern-Course-You-Tube-Thumbnail.png" alt="Yellow-Black-Modern-Course-You-Tube-Thumbnail" border="0"></a>
+<a href="https://ibb.co/HxLx33q"><img src="https://i.ibb.co/MGyGQQ7/Yellow-Black-Modern-Course-You-Tube-Thumbnail.png" width="100%" alt="Yellow-Black-Modern-Course-You-Tube-Thumbnail" border="0"></a>
 
 # 💫 About Me:
 👯 I’m looking to collaborate on Front-end projects<br>🌱 I’m currently learning React, Next and Tailwind<br>
