@@ -1,5 +1,4 @@
-<a href="https://www.upwork.com/freelancers/~01cf21b368dfbda1df"><img src="https://ibb.co/HxLx33q" href="https://ibb.co/HxLx33q" alt="1712361704681" border="0" width="100%"></a>
-
+<a href="https://ibb.co/HxLx33q"><img src="https://i.ibb.co/MGyGQQ7/Yellow-Black-Modern-Course-You-Tube-Thumbnail.png" alt="Yellow-Black-Modern-Course-You-Tube-Thumbnail" border="0"></a>
 
 # 💫 About Me:
 👯 I’m looking to collaborate on Front-end projects<br>🌱 I’m currently learning React, Next and Tailwind<br>
